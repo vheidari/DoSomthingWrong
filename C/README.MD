@@ -1,1 +1,1 @@
-# my C code rull
+# my C code rule
