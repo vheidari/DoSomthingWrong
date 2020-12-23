@@ -1,2 +1,4 @@
-# do-somthing-wrong
-✔ Do somthing wrong every day,
+# Do Somthing Wrong
+✔ Do something wrong every day , to learn new stuff.
+-----------------------------------------
+My Daly 💩 and 🤢 code repo.
