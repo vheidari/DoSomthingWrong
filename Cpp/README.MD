@@ -1,1 +1,0 @@
-# My Cpp Code Rule
