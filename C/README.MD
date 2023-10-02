@@ -1,1 +1,0 @@
-# my C code rule
